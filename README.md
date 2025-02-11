@@ -28,7 +28,7 @@ You can  the precompiled dll directly or even build it yourself after modificati
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `X-Auth-Token` | `string` | Tinder |
-| `User ID` | `float` | Tinder |
+| `User ID` | `string` | Tinder |
 
 
 | Parameter | Type     | Description                |
