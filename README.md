@@ -53,9 +53,11 @@ You can  the precompiled dll directly or even build it yourself after modificati
 ![App Screenshot](https://github.com/user-attachments/assets/da836331-725e-47c7-a657-aa9083bc2802)
 
 -Bottom of Dashboard
+
 ![image](https://github.com/user-attachments/assets/dfd4776a-51b1-412f-ab15-e50b5b82f789)
 
 -Example of data that the program can show (Happn case)
+
 ![image](https://github.com/user-attachments/assets/477c0158-7b0e-4490-a80d-f594e5c1ee51)
 
 
