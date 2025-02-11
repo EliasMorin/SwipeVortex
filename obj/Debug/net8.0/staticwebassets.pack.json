@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/Instagram.html",
+      "PackagePath": "staticwebassets/Instagram.html"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/bumble.html",
+      "PackagePath": "staticwebassets/bumble.html"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/happn.html",
+      "PackagePath": "staticwebassets/happn.html"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/js/analytics.js",
+      "PackagePath": "staticwebassets/js/analytics.js"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/js/bumble-analytics.js",
+      "PackagePath": "staticwebassets/js/bumble-analytics.js"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/js/happn-analytics.js",
+      "PackagePath": "staticwebassets/js/happn-analytics.js"
+    },
+    {
+      "Id": "/home/pi/Downloads/SwipeVortexWb/wwwroot/js/index.js",
+      "PackagePath": "staticwebassets/js/index.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SwipeVortexWb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SwipeVortexWb.props",
+      "PackagePath": "build\\SwipeVortexWb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SwipeVortexWb.props",
+      "PackagePath": "buildMultiTargeting\\SwipeVortexWb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SwipeVortexWb.props",
+      "PackagePath": "buildTransitive\\SwipeVortexWb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
