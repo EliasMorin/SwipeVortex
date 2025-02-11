@@ -3,7 +3,13 @@
 
 Swipe Vortex is an ASP .NET tool using various APIs to collect data and also interact with it. The project is in build and supports main APIs like Tinder or Bumble, Happn and Instagram.
 
+## Features
 
+- Each APIs working (11/02/2025) - Tinder can be added (Another project)
+- Datas are saved in DB using EntityFrameworkCore
+- Using of PNL (NLP) in Instagram case
+- Easy of control
+  
 ## Installation
 
 You will differents configurations before using the tool.              
