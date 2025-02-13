@@ -22,7 +22,7 @@ The project is also builded for arm64.
     
 ## Deployment
 
-You can  the precompiled dll directly or even build it yourself after modification 
+You can run the precompiled dll directly or even build it yourself after modification 
 
 ```bash
   dotnet build && dotnet run
